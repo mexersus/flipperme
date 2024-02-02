@@ -5,7 +5,7 @@ Collection of Flipper. Raspberry and generic Linux funnies, these are all for ed
 
 
 <p align="center">
-  <img src="assets/animate.gif" width="350" alt="accessibility text">
+  <img src="assets/animate.gif" width="400" alt="accessibility text">
 </p>
 
 
