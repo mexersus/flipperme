@@ -16,8 +16,6 @@ Collection of Flipper. Raspberry and generic Linux funnies, these are all for ed
   
   </br>
 
-<p align="center">
-  <img src="assets/badusb.png" width="400" alt="accessibility text">
-</p>
-
 ### BadUSB
+
+
