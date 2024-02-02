@@ -1,7 +1,7 @@
-BadUSB flipper script file :
+BadUSB flipper script file
 ----
 
-- Because getting on your wifi is the start of things.  
+Because getting on your wifi is the start of things.  
 
 - Upload the script to your badusb folder on the flipper  
 
