@@ -1,0 +1,13 @@
+[Unit]
+Description=Go port 8080 file uploader
+
+[Service]
+Type=simple
+User=www-data
+WorkingDirectory=/tmp
+ExecStart=/tmp/postMe
+Restart=on-failure
+
+
+[Install]
+Alias=go-uploader.service

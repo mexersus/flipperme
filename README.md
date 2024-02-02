@@ -1,2 +1,2 @@
 # flipperme
-Flipper, Linux, and oter funnies
+Collection of Flipper. Raspberry and generic Linux funnies
