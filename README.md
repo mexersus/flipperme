@@ -13,7 +13,8 @@ Collection of Flipper. Raspberry and generic Linux funnies, these are all for ed
 
 ## BadUSB
 
-- My bad badUSB scripts ([Mine](https://github.com/mexersus/flipperme/tree/main/badUSB))
+- My bad badUSB scripts ([Mine](https://github.com/mexersus/flipperme/tree/main/badUSB))  
+  Mainly adaptations of found broken scripts and some fresh ones.
 
 </br></br></br></br>
 
