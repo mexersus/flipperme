@@ -7,26 +7,15 @@ Collection of Flipper. Raspberry and generic Linux funnies, these are all for ed
 ## Flipper
 
 - Official Flipper Github ([Flipper Devices · GitHub](https://github.com/flipperdevices))
-  
-  </br>
-  
-  </br>
-  
-  </br>
-  
-  </br>
+
+</br></br></br></br>
 
 ### BadUSB
 
 - My bad badUSB scripts ([Mine](https://github.com/mexersus/flipperme/tree/main/badUSB))
 
-  </br>
-  
-  </br>
-  
-  </br>
-  
-  </br>
-  
-  ### Raspberry PI
-  - My bad badUSB scripts ([Mine](https://github.com/mexersus/flipperme/tree/main/badUSB))
+</br></br></br></br>
+
+## RaspberryPi
+
+Collection of some handy RPI things.
