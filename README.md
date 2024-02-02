@@ -8,19 +8,13 @@ Collection of Flipper. Raspberry and generic Linux funnies, these are all for ed
 
 - Official Flipper Github ([Flipper Devices · GitHub](https://github.com/flipperdevices))
   
-    
+  </br>
   
-    
+  </br>
   
-    
+  </br>
   
-    
-  
-    
-  
-    
-  
-    
+  </br>
 
 <p align="center">
   <img src="assets/badusb.png" width="400" alt="accessibility text">
