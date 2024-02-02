@@ -7,6 +7,7 @@ Collection of Flipper. Raspberry and generic Linux funnies, these are all for ed
 ## Flipper
 
 - Official Flipper Github ([Flipper Devices · GitHub](https://github.com/flipperdevices))
+- Huge Flipper Collection ([Awesome Flipper · GitHub](https://github.com/djsime1/awesome-flipperzero))
 
 </br></br></br></br>
 
@@ -26,5 +27,3 @@ Collection of some handy RPI things.
 
 Collection of some Linux related scripts, daemons and links.  
 Since i'm pretty much a Kali/Debian/Ubuntu adept its covers that.
-
-
