@@ -9,6 +9,10 @@ Connect flipper to a windows PC
 
 Make sure you have a uploader running on a server  
 
+You can use this golang server : [postServer i have prepared](https://github.com/mexersus/flipperme/tree/main/linux/golang/postServer)  
+
 Run the script, and winning!
+
+
 
 
