@@ -10,8 +10,6 @@ Collection of Flipper. Raspberry and generic Linux funnies, these are all for ed
 
 ## Flipper
 
----
-
 
 
 - Official Flipper Github ([Flipper Devices · GitHub](https://github.com/flipperdevices))
