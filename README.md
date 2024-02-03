@@ -29,4 +29,3 @@ Collection of some handy RPI things.
 Collection of some Linux related scripts, daemons and links.  
 Since i'm pretty much a Kali/Debian/Ubuntu adept its covers that.
 
-.
